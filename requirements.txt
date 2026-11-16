@@ -1,0 +1,5 @@
+chromadb>=0.5
+openai>=1.30
+python-dotenv>=1.0
+python-telegram-bot>=22.1
+sentence-transformers>=3.0
