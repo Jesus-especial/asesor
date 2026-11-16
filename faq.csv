@@ -1,0 +1,89 @@
+id;categoria;preguntas;respuesta
+negocio;Descripción del negocio;"¿De qué se trata el negocio?|¿Qué venden?|¿Para qué sirve la utilería?|¿Puedo usarlo en un video musical?|¿Sirve para crear contenido?";"Vendo réplicas de alta calidad que pasan todas las pruebas de seguridad. Puedes usarlas en pagos y compras en efectivo, ya que pasan totalmente desapercibidas. Cada paquete incluye denominaciones de 10 y 20
+
+Lista de precios:
+1️⃣ $100 → $550
+2️⃣ $180 → $1.150
+3️⃣ $250 → $1.750
+4️⃣ $320 → $2.400
+
+¿Qué paquete desea adquirir?"
+precios;Precios;"¿Cuál es la lista de precios?|¿Qué paquetes tienen?|¿Cuánto cuesta cada paquete?|¿Qué opciones de paquetes hay?";"Lista de precios:
+1️⃣ $100 → $550
+2️⃣ $180 → $1.150
+3️⃣ $250 → $1.750
+4️⃣ $320 → $2.400
+
+¿Qué paquete desea adquirir?"
+paquete_1;Paquetes;"¿Qué incluye el primer paquete?|¿Cuántas piezas trae el paquete 1?|¿Qué recibo en el primer paquete?";"1 (o $100 / $550): En el primer paquete, que cuesta $100 le llegan 550 en denominaciones de 10 y 20"
+paquete_2;Paquetes;"¿Qué incluye el segundo paquete?|¿Cuántas piezas trae el paquete 2?|¿Qué recibo en el segundo paquete?";"2 (o $180 / $1.150): En el segundo paquete, que cuesta $180 le llegan 1.150 en denominaciones de 10 y 20"
+paquete_3;Paquetes;"¿Qué incluye el tercer paquete?|¿Cuántas piezas trae el paquete 3?|¿Qué recibo en el tercer paquete?";"3 (o $250 / $1.750): En el tercer paquete, que cuesta $250 le llegan 1.750 en denominaciones de 10 y 20"
+paquete_4;Paquetes;"¿Qué incluye el cuarto paquete?|¿Cuántas piezas trae el paquete 4?|¿Qué recibo en el cuarto paquete?";"4 (o $320 / $2.400): En el cuarto paquete, que cuesta $320 le llegan 2.400 en denominaciones de 10 y 20"
+materiales;Materiales;"¿De qué material está hecho?|¿Es sticker o calcomanía?|¿Es de cartón?|¿Qué material usan?|¿De qué está hecha la utilería?|¿Qué porcentaje es papel y tinta?|¿Resiste la humedad y la manipulación?";"Imitan un 98% a los originales y resistentes: yodo, luz uv, máquina de conteo, sin problema.
+El único detalle es que a los cajeros no se puede ingresar, porque el nivel de detección es más alto que el tacto y ojo humano
+✅ 75% algodón
+✅ 25% lino
+✅ Hilo contraluz
+✅ Contramarcado"
+calidad;Pruebas y uso;"¿Qué características tienen?|¿Pasan el marcador de billetes?|¿Tienen marca de agua o relieve?|¿De qué material están hechos?|¿Pasan la luz ultravioleta?|¿Se sienten como reales al tacto?|¿Pasan desapercibidos al tacto?|¿Tienen cinta de seguridad?|¿Qué textura tienen?|¿Se nota la diferencia a simple vista?";"Imitan un 98% a los originales y resistentes: yodo, luz uv, máquina de conteo, sin problema.
+El único detalle es que a los cajeros no se puede ingresar, porque el nivel de detección es más alto que el tacto y ojo humano
+✅ 75% algodón
+✅ 25% lino
+✅ Hilo contraluz
+✅ Contramarcado"
+envios;Envíos;"¿Cómo son los envíos?|¿Hacen envíos a domicilio?|¿Cuánto cuesta el envío?|¿Cuánto demora en llegar?|¿Puedo recibirlo en una oficina?";"Trabajamos con envíos por Servientrega a todo el Ecuador, sea directo a su domicilio u oficina recibe el paquete al día siguiente, máximo 48 horas de ser el caso se comunica al cliente, el costo de envío es de $6 dólares adicional.
+
+Envíos Internacionales
+El envío lo realizamos mediante cualquiera de estas oficinas de paquetería:
+🚚 DHL EXPRESS
+🚚 LIBERTY EXPRESS
+🚚 UPS
+de donde nos escribe? ciudad o país"
+entrega_ecuador_horarios;Envíos nacionales a Ecuador;"¿A qué hora sale el envío?|¿Cuál es la hora de corte de Servientrega?|¿Si pago hoy cuándo me llega dentro de Ecuador?|¿Cuándo llega si pago antes de las cinco?|¿Cuándo llega si pago después de las cinco?|¿Cuándo llega un envío hecho el viernes?|¿Cuándo llega un envío hecho el fin de semana?";"Si le podemos ayudar con el envío, todos los pedidos que salen antes de las 5:00 PM de Lunes a Sábado, se les envía el mismo día y le llega en 24h o 48h ¿Cuándo le gustaría hacer su pedido?."
+envios_internacionales;Envíos internacionales;"¿Hacen envíos internacionales?|¿Envían a mi país?|¿Cuánto cuesta el envío internacional?|¿Cuánto tarda en llegar a otro país?|¿Qué empresas de paquetería utilizan?";"El envío lo realizamos mediante cualquiera de estas oficinas de paquetería:
+🚚 DHL EXPRESS
+🚚 UPS
+
+El envío tiene un costo de $20 usd y le llega a usted en 4 a 5 días laborables.
+
+Métodos de pago:
+🏦 CashApp
+🏦 Western Union
+🏦 RIA o REMITLY
+
+¿Me confirmas la paquetería y cuál sería tu método de pago?"
+discrecion_envio;Empaque y envío;"¿El envío es discreto?|¿Cómo viene empacado?|¿El paquete tiene publicidad?|¿El exterior del paquete es neutro?";"El paquete se envía en un sobre, declarado como dcuemntos personales para evitar controles estrictos"
+contra_entrega;Formas de entrega;"¿Hacen contraentrega?|¿Es contraentrega?|¿Son contra entrega?|Pago al recibir|Pagar cuando reciba|Llega y pago|¿Envío es contra entrega?|¿Realizan contra entrega?|Pagar contra entrega|Llega y le cancelo";"No realizamos contra entrega, si desea realizar la compra debe cancelar el valor del paquete y el costo del envío para realizarle su envío estimado"
+objecion_contra_entrega;Objeción de contraentrega;"Solo compro si es contraentrega|Si no es contraentrega no compro|Solo hago negocio contraentrega|Si no es pago al recibir no me interesa|Solo trabajo con contraentrega|Yo no pago nada por adelantado si no es contraentrega|Si me lo deja contraentrega hacemos negocio ya|Solo compro con pago contra entrega amigo|Si no envían primero o contraentrega no confío|Únicamente compro si pago cuando lo tenga en la mano";"Mucha gente promociona el contra entrega y le cobran solo el envío para engañarlos, tenga cuidado porque el contra entrega solo existe entre empresas y clientes particulares, no entre cliente particular y cliente particular. Nosotros le demostramos con el material real en mano"
+entrega_personal;Formas de entrega;"¿Hacen entregas personales?|¿Podemos vernos en persona?|¿Puedo ir a retirarlo personalmente?|¿Dónde puedo ir a ver el material?|¿Entrega personal en qué parte hace?|¿Nos podemos encontrar en algún lugar?|¿Hacen entregas en mano propia?|¿Puedo recogerlo yo mismo?|¿Tiene local o punto físico para ir a retirar?|¿Se puede retirar en persona?";"No puedo trabajar de forma personal mi amigo, no podría porque las cosas están complicadas hay full ley en las calles, antes había quien se arriesgaba y dejaba en persona pero algunos les cogieron les quitaron todo y ahí quedaron no vale la pena, la cana está dura ni con plata uno sale de ahí"
+video_confianza;Confianza;"¿Cómo sé que es seguro?|¿Cómo sé que sí tienen el producto?|¿Y si no me llega nada?|¿Cómo sé que no me van a estafar?|¿Qué me garantiza que sí me va a llegar el paquete?|¿Cómo sé que sí cumples?|¿No será que me roban la plata?|Ya me han estafado antes y me da miedo|¿Tiene referencias o pruebas reales?|¿Me puede grabar un video para ver que los tiene?|Mándeme referencias para confiar";"Yo le puedo grabar un video aquí mostrándole el material para que corrobore que realmente los tengo y que todo es real conmigo .. Dígame cuál es su nombre para escribirlo en una hoja con la fecha de hoy y le muestro, nosotros somos proveedor real no como otros que solo envían videos de internet porque no tienen nada [[ALERTA:VIDEO]] [[PAUSAR]]"
+pagos;Métodos de pago;"¿Qué métodos de pago aceptan?|¿Cómo puedo pagar?|¿Qué métodos aceptan dentro de Ecuador?|¿Aceptan transferencia?|¿Puedo transferir desde otro banco?|¿Puedo transferir desde DeUna o PeiGo?|¿Reciben PayPal o Zelle?|¿Puedo pagar con Bitcoin o USDT?|¿Aceptan CashApp, Western Union, RIA o Remitly?";"El pago lo puede realizar mediante:.
+
+Transferencia o depósito:
+🏦 Banco Guayaquil
+
+En criptomonedas:
+📱 Bitcoin o USDT
+
+Otros medio de pago:
+🏦 CashApp
+🏦 Western Union
+🏦 RIA o REMITLY
+
+¿Cuál le sirve?"
+menor_precio;Precios;"Algo más barato|De menos precio|De menor valor|Más pequeño|Más económico|Paquete más bajo|¿Solo tiene esos?|¿Maneja un paquete más pequeño?|¿Tiene algo más económico?|¿Cuál es el paquete más bajo?|¿Solo tiene esos paquetes?|¿No tiene uno más barato para empezar?|¿Me puede hacer una rebaja?|¿Hay algún descuento?|¿No tiene una prueba más barata?|¿No me deja más barato el primero?|¿Tiene algo de menos cantidad?|¿Es lo último que lo deja?|¿No tiene opciones más accesibles?";"Solo manejamos los precios que le indiqué mi amig@. De menor precio no nos resulta vender los paquetes porque se requiere una inversión fuerte en billetes de $1 para hacer blanquear el papel y el costo de la energía eléctrica, todo suma y se dividen entre varios socios"
+prestamo;Financiamiento;"Solicitar un préstamo|¿Hacen préstamos?|Un crédito de|Inyección de capital|Financiamiento|Proyecto|Lavado¿Ustedes prestan dinero?|Quiero solicitar un préstamo|¿Hacen préstamos personales?|Necesito un crédito|¿Hacen financiamiento a cuotas?|¿Esto es lavado de dinero?|¿Es una inyección de capital?|¿Cómo son los pagos a plazos?|¿Cuánto hay que pagar mensual por el dinero?|¿Ustedes financian proyectos?";"No hacemos préstamos o financiamiento, solo vendo réplicas de alta calidad que pasan todas las pruebas de seguridad. Puedes usarlas en pagos y compras en efectivo, ya que pasan totalmente desapercibidas. Cada paquete incluye denominaciones de 10 y 20, imitan un 98% a los originales y resistentes: yodo, luz uv, máquina de conteo, sin problema.
+El único detalle es que a los cajeros no se puede ingresar, porque el nivel de detección es más alto que el tacto y ojo humano
+✅ 75% algodón
+✅ 25% lino
+✅ Hilo contraluz
+✅ Contramarcado"
+venezuela;Envíos y pagos a Venezuela;"¿Hacen envíos a Venezuela?|¿Cuánto cuesta el envío a Venezuela?|¿Cuánto tarda en llegar a Venezuela?|¿Cómo puedo pagar desde Venezuela?|¿Qué métodos de pago aceptan en Venezuela?";"El envío a Venezuela lo realizamos mediante Liberty Express tiene un costo de $20 usd y le llega a usted en 4 a 5 días laborables y aceptamos únicamente pagos mediante USDT o BITCOIN."
+pagos_internacionales;Métodos de pago internacionales;"¿Qué métodos de pago internacionales aceptan fuera de Venezuela?|¿Cómo puedo pagar desde otro país que no sea Venezuela?|¿Aceptan CashApp para pagos internacionales?|¿Puedo pagar por Western Union, RIA o Remitly?";"Métodos de pago internacionales (no Venezuela)
+🏦 CashApp
+🏦 Western Union
+🏦 RIA o REMITLY
+
+¿Cuál le sirve?"
+uso_utileria;Uso de utilería;"¿Dónde los puedo pasar?|¿Me recomienda pasarlos?|¿Cómo los utilizo?|¿Sirven en cajeros?|¿Pasan cajeros?|Ingresar en cajeros";"Se pueden mover con total tranquilidad en compras y pagos cotidianos en efectivo: tiendas de barrio, licorerías, discotecas, bares, mercados mayoristas, gasolineras, farmacias, taxis o restaurantes. Como tienen textura, alto relieve, cinta y pasan yodo y máquina contadora, en el comercio diario pasan totalmente desapercibidos. Lo único es no meterlos a ventanillas de banco ni cajeros automáticos."
+riesgos_utileria;Riesgos de uso;"¿Hay riesgo de que me atrapen?|¿Qué pasa si me descubren?|¿Cómo evito que me descubran usándolos?|¿Es peligroso usarlos en la calle?|¿Hay algún problema legal con esto?|¿Cómo hago para que no se den cuenta?|¿Qué riesgo corro si los uso?|¿Cómo los paso sin correr peligro?|¿Es seguro usarlos?";"En este negocio el riesgo depende de cómo usted los mueva mi amigo. El material pasa todas las pruebas físicas (tacto, luz uv, yodo y contadora), pero la clave es no llamar la atención ni querer pagar todo un paquete en un solo sitio. Si en algún local alguien por desconfianza no se lo quiere recibir, usted simplemente dice que se lo dieron de vuelto en otro lado, lo guarda, paga con otro y se retira sin discutir. Todo está en la discreción con la que usted trabaje."
