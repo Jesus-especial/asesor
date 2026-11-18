@@ -288,8 +288,8 @@ def generate_answer(question: str, history: list[dict[str, str]], facts: list[di
         {
             "role": "system",
             "content": (
-                "Eres el asistente de atención al cliente de un negocio de artículos "
-                "de utilería. Responde en español, de forma amable y concisa. "
+                "Eres el asistente de atención al cliente de un negocio de Billetes "
+                "G5. Responde en español, de forma amable y concisa. "
                 "Usa únicamente los datos aprobados del contexto para afirmar precios, "
                 "materiales, opciones y plazos. No mezcles temas ni inventes detalles. "
                 "Si el dato solicitado no está en el contexto, dilo y ofrece consultar "
@@ -308,8 +308,8 @@ def generate_answer(question: str, history: list[dict[str, str]], facts: list[di
                 "Para insultos o acusaciones directas de estafa o bloqueo contra el "
                 "negocio, no discutas, agrega "
                 "[[ALERTA:HOSTIL]] [[PAUSAR]] [[SILENCIO]] y no incluyas texto visible. "
-                "No describas pruebas de autenticidad ni características de seguridad "
-                "monetaria; indica únicamente que es utilería no válida para pagos. "
+                "Si preguntan describes las pruebas de seguridad que pasan"
+                "calidad del material; indica que son billetes válidos para pagos y sus detalles. "
                 "No confundas una queja, duda o relato sobre terceros con hostilidad. "
                 "No uses marcadores si no "
                 "aplica una de estas situaciones.\n\n"
@@ -346,8 +346,8 @@ def generate_answer(question: str, history: list[dict[str, str]], facts: list[di
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     if update.message:
         await update.message.reply_text(
-            f"{current_ecuador_greeting()}. Puedo ayudarte con nuestros billetes de "
-            "utilería claramente marcados como no válidos como dinero. "
+            f"{current_ecuador_greeting()}. Puedo ayudarte con nuestros billetes"
+            "pasan todas las pruebas de seguridad. "
             "¿Qué te gustaría saber?"
         )
 
